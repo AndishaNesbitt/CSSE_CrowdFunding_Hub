@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Fund Erie</string>
+
+    <!-- Tab Section Titles -->
+    <string name="tab_title_give">Give</string>
+    <string name="tab_title_earn">Get</string>
+    <string name="tab_title_invest">Grow</string>
+
+    <!-- Toolbar options menu items -->
+    <string name="option_order_by">Order Campaigns By...</string>
+    <string name="option_amt_raised_low">Amount Raised (Low to High)</string>
+    <string name="option_amt_raised_high">Amount Raised (High to Low)</string>
+    <string name="option_percent_complete_low">% Complete (Low to High)</string>
+    <string name="option_percent_complete_high">% Complete (High to Low)</string>
+    <string name="option_help">Help</string>
+    <string name="option_about">About</string>
+
+
+</resources>
